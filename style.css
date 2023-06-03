@@ -16,10 +16,10 @@ a{
     text-decoration: none;
 }
 .container{
-    background-color: azure;
+    background-color: rgb(209, 192, 169);
     margin: 2rem auto;
     max-width: 60rem;
-    width: 90%;
+    width: 100%;
     -webkit-box-shadow: 26px 10px 25px -11px rgba(0,0,0,0.75);
     -moz-box-shadow: 26px 10px 25px -11px rgba(0,0,0,0.75);
     box-shadow: 26px 10px 25px -11px rgba(0,0,0,0.75);
@@ -109,11 +109,4 @@ projects__column{
     opacity: .7;
 
 }
-.fa-linkedin{
-background: blue;
-color: aliceblue;
-}
-.fa-github{
-    background: black;
-color: aliceblue;
-}
+
